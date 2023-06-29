@@ -1,3 +1,4 @@
+
 export const graphqlBodySchema = {
   type: 'object',
   properties: {
